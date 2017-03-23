@@ -1,4 +1,5 @@
 Desecrption:
+An end to end shopping cart web application!
 the user could login or logout or CRUD for the cart or wishlist from product list which is loaded from database.
 index page will shows the products list and user could at the product to cart and the login user could add products to wishlist.
 cart page, user could modiy the product in cart.
