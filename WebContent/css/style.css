@@ -1,0 +1,9 @@
+.navbar-brand {
+	padding : 0;
+}
+.removefromwish, .wishaddtocart, .removefromcart, .addtocart, .addtowish {
+	text-align: center;
+}
+form {
+	margin: 20px;
+}
